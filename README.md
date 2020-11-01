@@ -1,5 +1,5 @@
 # What is this?
-This is a REST API server developed during DeFi Hackathon 2019
+This is a REST API server
 - Writen by Go lang
 - Cosmos SDK is used
 - Can store the honor prize numbers for our system players in bitcoin.
